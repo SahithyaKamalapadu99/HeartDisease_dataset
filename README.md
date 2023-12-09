@@ -2,19 +2,19 @@
 
 ## Directory Structure
 
-- /backend
+- backend
   - app.py: Main Flask server application.
 
-- /frontend
-  - /templates
+- frontend
+  - templates
     - index.html: HTML template for the prediction form.
 
-- /models
+- models
   - (various model files): Trained model pickles for prediction.
 
-- /static: Contains static files like CSS, JS, and images.
+- static: Contains static files like CSS, JS, and images.
 
-- /venv: Virtual environment directory for the project.
+- venv: Virtual environment directory for the project.
 
 ## Usage
 
