@@ -27,5 +27,4 @@ Please ensure you have Python 3.9 installed and are using the virtual environmen
 
 ## Notes
 
-- Ensure all models are placed in the /models directory.
-- Static files must be in the /static directory with appropriate subfolders for CSS, JS, and images.
+- Ensured all models are placed in the /models directory.
